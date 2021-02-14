@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bookslist-react/static/css/main.5c2934cb.chunk.css",
+    "main.js": "/bookslist-react/static/js/main.4b2d8d80.chunk.js",
+    "main.js.map": "/bookslist-react/static/js/main.4b2d8d80.chunk.js.map",
+    "runtime-main.js": "/bookslist-react/static/js/runtime-main.d15346b6.js",
+    "runtime-main.js.map": "/bookslist-react/static/js/runtime-main.d15346b6.js.map",
+    "static/js/2.1691b63b.chunk.js": "/bookslist-react/static/js/2.1691b63b.chunk.js",
+    "static/js/2.1691b63b.chunk.js.map": "/bookslist-react/static/js/2.1691b63b.chunk.js.map",
+    "static/js/3.bbf3fa7f.chunk.js": "/bookslist-react/static/js/3.bbf3fa7f.chunk.js",
+    "static/js/3.bbf3fa7f.chunk.js.map": "/bookslist-react/static/js/3.bbf3fa7f.chunk.js.map",
+    "index.html": "/bookslist-react/index.html",
+    "static/css/main.5c2934cb.chunk.css.map": "/bookslist-react/static/css/main.5c2934cb.chunk.css.map",
+    "static/js/2.1691b63b.chunk.js.LICENSE.txt": "/bookslist-react/static/js/2.1691b63b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bookslist-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d15346b6.js",
+    "static/js/2.1691b63b.chunk.js",
+    "static/css/main.5c2934cb.chunk.css",
+    "static/js/main.4b2d8d80.chunk.js"
+  ]
+}
